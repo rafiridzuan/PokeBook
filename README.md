@@ -1,6 +1,5 @@
 # PokeBook Web Application
 
-**Project Overview**
 Poke Book is a web application built using **PHP 8**, **Laravel framework**, and **MySQL** for managing and displaying Pokémon characters. The system allows **admins** to insert, update, and delete Pokémon records while **guest users** can view Pokémon details.
 
 This project was developed under a **XAMPP environment**, with **jQuery** used for front-end interactivity.
