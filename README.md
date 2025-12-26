@@ -51,11 +51,11 @@ This project was developed under a **XAMPP environment**, with **jQuery** used f
 
 | Pokemon Page (Guest) | Pokemon Page (Admin)  |
 | :---: | :---: |
-| ![PokemonPage(guest)](./docs/PokemonPage(guest).jpeg) | ![PokemonPage(Admin)](./docs/PokemonPage(Admin).jpeg) |
+| ![PokemonPage(guest)](./docs/PokemonPage(guest).jpeg) | ![PokemonPage(Admin)](./docs/PokemonPage(admin).jpeg) |
 | **Login Page** | **Add Pokemon Page** |
 | ![LoginPage](./docs/LoginPage.jpeg) | ![AddPokemonPage](./docs/AddPokemonPage.jpeg) |
 | **Edit Pokemon Page** | **Confirm Delete** |
-| ![EditPokemonPage](./docs/EditPokemonPage.jpeg) | ![ConfirmDelete](./docs/ConfirmDelete.jpeg) |
+| ![EditPokemonPage](./docs/EditPokemonPage.jpeg) | ![ConfirmDelete](./docs/ConfirmDelete.png) |
 ---
 
 ## Database Structure
