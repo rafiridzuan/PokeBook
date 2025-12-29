@@ -92,7 +92,7 @@ This project was developed under a **XAMPP environment**, with **jQuery** used f
 ## Installation / Setup
 
 1. Install **XAMPP** (Apache + MySQL + PHP 8).
-2. Place project folder in `htdocs` as `CompetitorID_Module_C`.
+2. Place project folder in `htdocs` as `Pokebook`.
 3. Import `pokemons.csv` into **MySQL** database.
 4. Configure `.env` file for database connection:
 
@@ -106,7 +106,7 @@ DB_PASSWORD=
 ```
 
 5. Run migrations / seeders if using Laravel.
-6. Open project in browser: `http://localhost/CompetitorID_Module_C/public`
+6. Open project in browser: `http://localhost/Pokebook/public`
 
 ---
 
